@@ -1,0 +1,59 @@
+{
+    "uuids": {
+        "phone_id": "fbb26370-8a81-4d92-b455-7de04a1cca6e",
+        "uuid": "d05bf536-3e46-48b6-a680-fdecd35c2677",
+        "client_session_id": "f147fae4-bdb8-430a-b612-e8810f57dc07",
+        "advertising_id": "c18633e3-89cf-48b0-9adf-b4e8e1d2bc16",
+        "android_device_id": "android-2324ab9663dc15d2",
+        "request_id": "08cf7abb-9ac6-4575-889e-d8da37c1c8f9",
+        "tray_session_id": "4c4f10a6-b6d5-4db5-b6b9-56c34841f771"
+    },
+    "mid": null,
+    "ig_u_rur": null,
+    "ig_www_claim": null,
+    "authorization_data": {
+        "ds_user_id": "40619229321",
+        "sessionid": "40619229321:1SThHYk0Ogyoyz:25:AYmXyaH10763iXPkm7VOfnuPQYkbowH9rLoeIE1u0A"
+    },
+    "cookies": {
+        "sessionid": "40619229321:1SThHYk0Ogyoyz:25:AYmXyaH10763iXPkm7VOfnuPQYkbowH9rLoeIE1u0A",
+        "ds_user_id": "40619229321"
+    },
+    "last_login": null,
+    "device_settings": {
+        "android_version": 34,
+        "android_release": "14",
+        "dpi": "480dpi",
+        "resolution": "1344x2992",
+        "manufacturer": "Google/google",
+        "device": "husky",
+        "model": "Pixel 8 Pro",
+        "cpu": "husky",
+        "app_version": "446.0.0.49.77",
+        "version_code": "385211303",
+        "bloks_versioning_id": "935a519904e9017324cdedb64a283a3c2c1a3d5b0bbc698b451f5aef72cc11df"
+    },
+    "user_agent": "Instagram 410.0.0.0.96 Android (33/13; 480dpi; 1080x2400; xiaomi; M2007J20CG; surya; qcom; en_US; 641123490)",
+    "country": "US",
+    "country_code": 1,
+    "locale": "en_US",
+    "timezone_offset": -14400,
+    "timezone_name": "GMT-04:00",
+    "push_disabled": true,
+    "request_timeout": 1,
+    "public_request_retries_count": 3,
+    "public_request_retries_timeout": 2,
+    "session_retry_total": 3,
+    "session_retry_backoff_factor": 2,
+    "session_retry_statuses": [
+        429,
+        500,
+        502,
+        503,
+        504
+    ],
+    "public_transport": "requests",
+    "private_transport": "curl",
+    "public_transport_impersonate": "chrome136",
+    "tls_verify": true
+}
